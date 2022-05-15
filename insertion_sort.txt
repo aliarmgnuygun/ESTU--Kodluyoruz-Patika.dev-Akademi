@@ -10,7 +10,6 @@
 
 2-  Big-o notation: (n * (n+1)) / 2 = (n^2 + n) / 2 = O(n^2) 
 3-  Time complexity:
-
 best case: the case that all numbers already sorted, O(n)
 average case: O(n^2)
 worst case: O(n^2)
